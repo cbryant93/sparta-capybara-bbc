@@ -11,7 +11,7 @@ class BBC_Register
   CONTINUE_BUTTON = '#submit-button'
   EMAIL = 'user-identifier-input'
   PASSWORD = 'password-input'
-  POSTCODE = 'hometown-input'
+  POSTCODE = 'postcode-input'
   GENDER = 'gender'
   OPT_IN = '//*[@id="marketingOptIn"]/div[1]/div[1]/label/div'
   OPT_OUT = '//*[@id="marketingOptIn"]/div[1]/div[2]/label/div'
